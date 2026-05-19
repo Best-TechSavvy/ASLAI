@@ -119,3 +119,5 @@ This will reduce inference time from ~30-50ms to ~5-10ms.
 | Signs accuracy (250 classes) | 55.6% |
 | Inference time (CPU) | ~30-50 ms |
 | Random chance (250 classes) | 0.4% |
+
+Check out the [Accuracy report](https://best-techsavvy.github.io/ASLAI/Accuracy/index.html) to see model performance in detail.
